@@ -40,17 +40,5 @@ Este addon para Blender proporciona un conjunto de herramientas útiles para art
 - **Añadir Cono**: Crea un cono con altura y segmentos ajustables.
 - **Añadir Monkey**: Crea una malla de "Monkey" con tamaño ajustable.
 - **Mover Origen**: Mueve el origen del objeto seleccionado al centro del mundo.
-- **Crear Cojín**: Crea un plano con físicas de tela aplicadas.
+- **Crear Cojín**: Crea un plano con físicas de tela aplicadas. Despues pulsa la tecla espacio y deja que corra la animación.
 - **Crear Cubo de Fluido**: Crea un cubo configurado como dominio de fluido líquido.
-
-## Contribuciones
-
-Si deseas contribuir a este proyecto, puedes realizar un fork, crear una rama con tus cambios, y enviar un pull request. Agradecemos cualquier contribución que mejore el addon.
-
-## Licencia
-
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
-
-## Contacto
-
-Para cualquier consulta o sugerencia, puedes abrir un issue en este repositorio o contactar al autor del addon.
