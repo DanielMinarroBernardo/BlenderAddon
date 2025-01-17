@@ -26,7 +26,7 @@ class MYTOOLS_PT_MainPanel(Panel):
     bl_region_type = 'UI'
     bl_category = "Herramientas"
 
-    def draw(self, context):z
+    def draw(self, context):
         layout = self.layout
         layout.label(text="Panel principal con dos subpaneles")
 
